@@ -4,7 +4,7 @@
   </a>
   <br>
   ReachOut
-</h1>
+</h1> 
  
 <div align="center">
    <strong>ReachOut</strong> - An Accessible software for facilitation of various Govt. schemes for persons with disabilities <br>
